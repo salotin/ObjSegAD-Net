@@ -1,0 +1,1 @@
+This part is used to store the weight files of u2net.
